@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BricksManagement
+</name>
+</assembly>
+<members>
+<member name="T:BricksManagement.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources._7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.brick_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.folder_customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.manual">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.production">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.salaries_icon_400x400">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BricksManagement.My.Resources.Resources.worker_male1600">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.AdminLoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.CustomerDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.WorkerRegistrationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.WSalaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.Material_SupplyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.Material_TableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.SupplierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.ProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.BillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.SalaryReceiptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.AdminLoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.CustomerDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.WorkerRegistrationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.WSalaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.Material_SupplyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.Material_TableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.SupplierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.ProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.BillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.SalaryReceiptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.AdminLoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.CustomerDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.WorkerRegistrationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.WSalaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.Material_SupplyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.Material_TableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.SupplierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.ProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.BillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1.SalaryReceiptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.AdminLoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.CustomerDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.WorkerRegistrationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.WSalaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.Material_SupplyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.Material_TableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.SupplierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.ProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.BillTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.SalaryReceiptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(BricksManagement.BricksProductionDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(BricksManagement.BricksProductionDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(BricksManagement.BricksProductionDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.UpdateAll(BricksManagement.BricksProductionDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BricksManagement.BricksProductionDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
