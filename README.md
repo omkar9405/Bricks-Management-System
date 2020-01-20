@@ -9,3 +9,6 @@ and also provided the receipt of salary and selling bricks to workers and custom
 2. Bsic knowledge of VB.Net
 3. Microsoft Access.
 4. Access Database Engine(tip.ADBE is used for connection to project and database which is created in access file.)
+Download Link:https://1drv.ms/u/s!ApjrDTyvMBd3hWdli15SFEflBkOj?e=aXv9RJ
+
+# Screenshots of Projects:
