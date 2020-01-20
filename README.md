@@ -46,4 +46,4 @@ GST Details: As per the GST plan 5% of GST need to pay as per government rule. S
 
 
 # Database
-In Bricks Management Folder BricksManagement.accdb file exists wich is database file.
+In Bricks Management Folder BricksManagement.accdb file exists which is database file.
