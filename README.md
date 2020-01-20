@@ -44,3 +44,6 @@ Production Details: Here you can set your products price and also keep details o
 GST Details: As per the GST plan 5% of GST need to pay as per government rule. So with this rule it will show the deatais of how many GST need to pay.
 ![Screenshot (14)](https://user-images.githubusercontent.com/42617411/72737941-8c33f480-3bc6-11ea-9bef-a3d4635f0f53.png)
 
+
+# Database
+In Bricks Management Folder BricksManagement.accdb file exists wich is database file.
